@@ -1,5 +1,4 @@
 .venv
 .env
-react_agent.ipynb
-app/node_modules
+
 .ruff_cache
